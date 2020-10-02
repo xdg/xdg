@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, and welcome to my GitHub
+
+Most of my repos are in language-specific organizations, rather than [github.com/xdg](https://github.com/xdg):
+
+* Go code: [github.com/xdg-go](https://github.com/xdg-go)
+* Perl code: [github.com/dagolden](https://github.com/dagolden)
+* Forks of others' repos: [github.com/xdg-forks](https://github.com/xdg-forks)
 
 <!--
 **xdg/xdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
